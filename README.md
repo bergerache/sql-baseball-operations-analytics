@@ -108,17 +108,3 @@ Financial services analytics relies heavily on these exact patterns:
 ---
 
 **Demonstrating production-ready SQL for business analytics**
-```
-
-5. Commit message: `Add comprehensive README with banking applications`
-6. Click **Commit changes**
-
----
-
-### Step 3.5: Add topics
-
-1. Go to the main repo page (click repo name at top)
-2. Click the ⚙️ gear icon next to "About" (right sidebar)
-3. In the Topics field, add these (separated by spaces):
-```
-   sql window-functions cte mysql data-analysis financial-analytics
